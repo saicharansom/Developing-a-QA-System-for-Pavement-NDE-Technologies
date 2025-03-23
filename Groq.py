@@ -22,7 +22,7 @@ def load_json(file_path):
 def initialize_models():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     embedding_model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
-    client = Groq(api_key="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")  
+    client = Groq(api_key="enter your api")  
     return embedding_model, client
 
 # Create FAISS index

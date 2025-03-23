@@ -1,8 +1,5 @@
 
 # README: Running and Evaluating Models for Q&A
-Team-9
-Sumukh Bharadvaja Shivaram
-Mitanshu Sankhe
 Sai Charan Somineni
 
 ## Overview

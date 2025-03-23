@@ -1,0 +1,217 @@
+2024-12-04 22:32:36,961 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-04 22:33:01,228 - INFO - Query: Who typically uses 2D and 3D imaging technologies for pavement evaluation?
+2024-12-04 22:33:01,228 - INFO - Retrieved Chunks: ['2D and 3D Imaging Technology (IT) Target of Invest...', 'Photometric Stereo Imaging (PSI) Target of Investi...', 'Traffic Speed Deflection Devices (TSDDs) Target of...']
+2024-12-04 22:33:01,228 - INFO - Answer: Most people use the 3D and 4D imaging technologies that are available for 2D and 3D analysis. The most common use of these technologies is for pavement evaluation. However, some people use the 3D and 4D methods for pavement analysis.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for pavement evaluation.
+
+Some people may use the 3D and 4D methods for
+2024-12-04 22:33:01,228 - INFO - Images: ['2Dand3DImagingTechnologyIT/page_1_img_9.png', '2Dand3DImagingTechnologyIT/page_1_img_14.png', '2Dand3DImagingTechnologyIT/page_1_img_6.png', '2Dand3DImagingTechnologyIT/page_1_img_16.png', 'PhotometricStereoImagingPSI/page_1_img_4.png']
+2024-12-04 22:33:19,954 - INFO - Query: Who is responsible for maintaining the calibration of Falling Weight Deflectometers (FWD)?
+2024-12-04 22:33:19,955 - INFO - Retrieved Chunks: ['Falling Weight Deflectometer (FWD) Target of Inves...', 'Traffic Speed Deflection Devices (TSDDs) Target of...', 'Georgia Faultmeter (GFM) Target of Investigation A...']
+2024-12-04 22:33:19,955 - INFO - Answer: The National Highway Traffic Safety Administration (NHTSA) and the National Highway Traffic Safety Council (NHTSC) are responsible for the installation of a TELCO (TELCOMM) for the use of the TELCO in the performance of the National Highway Traffic Safety Administration's (NHTSA) Pavement Performance Program. The Pavement Performance Program is the primary instrument used to determine the safety of the Pavement for which the Pavement is designed. It is the only instrument used in the performance of the Pavement for which the Pavement is designed. The TELCO is designed to accurately measure the area of the Pavement in which it is installed. It is a key component of the Pavement Performance Program. The TELCO is designed to meet the requirements of the National Highway Traffic Safety Administration's (NHTSA) Pavement Performance Program. The TELCO is maintained by the Federal Highway Administration in the Department of Transportation. The TELCO is
+2024-12-04 22:33:19,955 - INFO - Images: ['FallingWeightDeflectometerFWD/page_1_img_6.png', 'FallingWeightDeflectometerFWD/page_1_img_12.png', 'GeorgiaFaultmeterGFM/page_1_img_4.png', 'TrafficSpeedDeflectionDevicesTSDDs/page_1_img_8.png', 'FallingWeightDeflectometerFWD/page_1_img_4.png']
+2024-12-04 22:34:10,873 - INFO - Query: Who can benefit from using electrical resistivity to assess corrosion in reinforced concrete?
+2024-12-04 22:34:10,874 - INFO - Retrieved Chunks: ['Electrical Resistivity (ER) Target of Investigatio...', 'Half-Cell Potential (HCP) Target of Investigation ...', 'Galvanostatic Pulse Measurement (GPM) Target of In...']
+2024-12-04 22:34:10,874 - INFO - Answer: A standard steel conductor is a copper-coated conductor. A typical conductor has a conductivity of about 35 to 35 percent. The conductor is also capable of absorbing some corrosion, though this is not required for this test. The test is done on a single wire, a single conductor, which is not as strong as a single conductor for a single wire. The test is done by using a different wire from the standard conductor. The test is performed in a single wire. It is usually done on a single wire from the standard conductor to which the wire is attached to a piece of steel. The test is not repeated for a single wire. The test is done at a high voltage to be used to assess the corrosion resistance of a single conductor, which is a common and common choice for testing. The test is performed with the wire connected to a single conductor. The test is performed in a high voltage to be used to determine the corrosion resistance of a single conductor, which is a common and common
+2024-12-04 22:34:10,874 - INFO - Images: ['ElectricalResistivityER/page_1_img_2.png', 'ElectricalResistivityER/page_1_img_10.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_5.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_12.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_10.png']
+2024-12-04 22:34:25,162 - INFO - Query: What are the main differences between 2D and 3D imaging systems in pavement analysis?
+2024-12-04 22:34:25,163 - INFO - Retrieved Chunks: ['2D and 3D Imaging Technology (IT) Target of Invest...', 'Photometric Stereo Imaging (PSI) Target of Investi...', 'Circular Texture Meter (CTM) Target of Investigati...']
+2024-12-04 22:34:25,163 - INFO - Answer: Both the two systems are based on the same measurement method. The difference between the two is one of location and time. The difference between the two is the difference between the two measures.
+
+In the 2D system, the measurement is done on the surface. The time is the distance from the center to the edge. The time is the time between the two measurements.
+
+In the 3D system, the measurement is done on the surface. The time is the time between the two measurements.
+
+In the manual, the measurement is done on the surface. The time is the time between the two measurements.
+
+In the manual, the measurement is done on the surface. The time is the time between the two measurements.
+
+In the manual, the measurement is done on the surface. The time is the time between the two measurements.
+
+In the manual, the measurement is done on the surface. The time is the time between the two measurements.
+
+In
+2024-12-04 22:34:25,163 - INFO - Images: ['2Dand3DImagingTechnologyIT/page_1_img_9.png', '2Dand3DImagingTechnologyIT/page_1_img_2.png', 'CircularTextureMeterCTM/page_1_img_1.png', '2Dand3DImagingTechnologyIT/page_1_img_13.png', 'CircularTextureMeterCTM/page_1_img_10.png']
+2024-12-04 22:34:38,448 - INFO - Query: What is the primary purpose of the Circular Texture Meter (CTM)?
+2024-12-04 22:34:38,449 - INFO - Retrieved Chunks: ['Circular Texture Meter (CTM) Target of Investigati...', 'Sand Patch Test (SPT) Target of Investigation Pave...', 'Galvanostatic Pulse Measurement (GPM) Target of In...']
+2024-12-04 22:34:38,449 - INFO - Answer: The primary purpose of the CTM is to measure the strength of a concrete surface to determine whether it is coated with a suitable coating. It is used for this purpose to determine the thickness of the concrete. The CTM is a type of measuring device designed to measure the strength of a concrete surface. In the following table, the CTM is used to calculate the strength of a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface. The CTM is based on the strength of a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface.
+
+
+The following table shows the strength of a concrete surface measured to a concrete surface.
+2024-12-04 22:34:38,449 - INFO - Images: ['CircularTextureMeterCTM/page_1_img_1.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_2.png', 'CircularTextureMeterCTM/page_1_img_10.png', 'CircularTextureMeterCTM/page_1_img_3.jpeg', 'GalvanostaticPulseMeasurementGPM/page_1_img_8.png']
+2024-12-04 22:34:56,838 - INFO - Query: What data is generated by Galvanostatic Pulse Measurement (GPM) surveys?
+2024-12-04 22:34:56,839 - INFO - Retrieved Chunks: ['Galvanostatic Pulse Measurement (GPM) Target of In...', 'Georgia Faultmeter (GFM) Target of Investigation A...', 'GPR (Asphalt Compaction Assessment) Target of Inve...']
+2024-12-04 22:34:56,839 - INFO - Answer: As of October, 2013, the State of Minnesota has implemented the Federal Government's new standard for the use of GPM surveys. The GPM survey is a series of surveys that will be conducted by the State of Minnesota's Division of the Highway System and the Department of Transportation. The surveys will provide information to the public about the conditions and conditions of the road and the quality of the road, including the type of roadway and the type of vehicle that drives on the road. GPM surveys will also provide information about the effects of climate change on the road surface and the potential for high-impact accidents on the road surface.
+
+The surveys will also provide information about the hazards of traffic in the road, such as the possibility of collisions, the use of hazardous materials, and the effects of traffic congestion.
+
+What is the GPM? GPM is a series of surveys that will be conducted by the State of Minnesota's Division of the Highway System and the Department of Transportation. GPM
+2024-12-04 22:34:56,839 - INFO - Images: ['GalvanostaticPulseMeasurementGPM/page_1_img_5.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_12.png', 'GroundPenetratingRadarAsphaltCompactionAssessment/page_1_img_2.png', 'GeorgiaFaultmeterGFM/page_1_img_4.png', 'GroundPenetratingRadarAsphaltCompactionAssessment/page_1_img_6.png']
+2024-12-04 22:35:11,186 - INFO - Query: What are the limitations of electrical resistivity testing on concrete surfaces?
+2024-12-04 22:35:11,187 - INFO - Retrieved Chunks: ['Electrical Resistivity (ER) Target of Investigatio...', 'Half-Cell Potential (HCP) Target of Investigation ...', 'GPR (Concrete Pavement Defects) Target of Investig...']
+2024-12-04 22:35:11,187 - INFO - Answer: Electrical resistance is a term used to describe the state of electrical conductivity. The term is used to describe a number of factors that influence conductivity of concrete surfaces.
+
+1. Inductance of electrical conductivity
+
+The electrical conductivity of concrete surfaces is often measured by a number of factors such as the thickness of the concrete, the resistance of the concrete to the air, and the electrical conductivity of the concrete surface. The electrical conductivity of concrete surfaces can vary depending on the physical conditions under which the concrete is laid. The electrical conductivity of concrete surfaces can vary from a value of 0.5-1 mV for concrete to a value of 3.5 mV for concrete.
+
+2. Reliability of electrical conductivity tests on concrete surfaces
+
+The reliability of electrical conductivity tests on concrete surfaces varies from a value of 3 mV to a value of 4 mV for concrete. The reliability of electrical conductivity tests on concrete surfaces varies from a
+2024-12-04 22:35:11,187 - INFO - Images: ['ElectricalResistivityER/page_1_img_10.png', 'GroundPenetratingRadarConcretePavementDefects/page_1_img_15.png', 'GroundPenetratingRadarConcretePavementDefects/page_1_img_5.png', 'GroundPenetratingRadarConcretePavementDefects/page_1_img_2.png', 'GroundPenetratingRadarConcretePavementDefects/page_1_img_1.png']
+2024-12-04 22:35:40,177 - INFO - Query: When is it more effective to use 3D imaging systems instead of 2D imaging systems?
+2024-12-04 22:35:40,178 - INFO - Retrieved Chunks: ['2D and 3D Imaging Technology (IT) Target of Invest...', 'Photometric Stereo Imaging (PSI) Target of Investi...', 'Infrared Thermography (IT) Target of Investigation...']
+2024-12-04 22:35:40,178 - INFO - Answer: The risks of an infrared sensor are not limited to the individual who has the required equipment, as well
+2024-12-04 22:35:40,178 - INFO - Images: ['2Dand3DImagingTechnologyIT/page_1_img_9.png', 'InfraredThermographyIT/page_1_img_11.jpeg', '2Dand3DImagingTechnologyIT/page_1_img_2.png', '2Dand3DImagingTechnologyIT/page_1_img_13.png', 'InfraredThermographyIT/page_1_img_7.png']
+2024-12-04 22:35:58,216 - INFO - Query: When should Falling Weight Deflectometer (FWD) calibration be performed?
+2024-12-04 22:35:58,216 - INFO - Retrieved Chunks: ['Falling Weight Deflectometer (FWD) Target of Inves...', 'Traffic Speed Deflection Devices (TSDDs) Target of...', 'Inertial Profiler – Pavement (IP) Target of Invest...']
+2024-12-04 22:35:58,216 - INFO - Answer: FWD calibration should be performed every year or so in order to ensure that the road is smooth. FWD calibration is performed at the same time as the installation of new asphalt. FWD calibration is also performed at the same time as the installation of new concrete. The FWD calibration may be performed with a low-quality tire. FWD calibration does not provide a smooth road surface to provide for high-speed driving.
+
+(9) Conclusion
+
+It is estimated that approximately 1,500 to 5,000 deaths occur in the United States every year in traffic accidents caused by vehicle and pedestrian traffic. The American Highway Traffic Safety Administration (AHSSA) provides a detailed report on road safety in the United States. For more information, see the AHSSA website.
+
+References
+
+1. Schoenholz, D., et al. (2015). The impact of road surface hardness on traffic accidents in the United States. Journal of the American Road and Traffic Engineer,
+2024-12-04 22:35:58,216 - INFO - Images: ['FallingWeightDeflectometerFWD/page_1_img_6.png', 'FallingWeightDeflectometerFWD/page_1_img_12.png', 'TrafficSpeedDeflectionDevicesTSDDs/page_1_img_8.png', 'FallingWeightDeflectometerFWD/page_1_img_4.png', 'FallingWeightDeflectometerFWD/page_1_img_34.png']
+2024-12-04 22:36:08,562 - INFO - Query: Where is the Circular Texture Meter (CTM) most commonly deployed for measurements?
+2024-12-04 22:36:08,564 - INFO - Retrieved Chunks: ['Circular Texture Meter (CTM) Target of Investigati...', 'Sand Patch Test (SPT) Target of Investigation Pave...', 'Galvanostatic Pulse Measurement (GPM) Target of In...']
+2024-12-04 22:36:08,564 - INFO - Answer: It is most commonly deployed in the following types of concrete: steel-bodies, steel-tanks, steel-bride, and steel-bride-combined structures. The CTM is used to measure the permeability of concrete in a given area. The size of the CTM varies depending on the depth of the concrete. For example, concrete that is covered with a concrete slab may be much larger than that covered with a concrete slab of the same thickness.
+
+If the CTM is used, the thickness of the concrete slab is measured in millimeters and the thickness of the concrete slab is measured in millimeters.
+
+The CTM can be configured to measure the thickness of a concrete surface (i.e., thickness of the concrete slab).
+
+The thickness of the concrete slab depends on the thickness of the concrete. For example, the thickness of the concrete slab that is covered with a concrete slab of the same thickness is measured in millimeters.
+2024-12-04 22:36:08,564 - INFO - Images: ['CircularTextureMeterCTM/page_1_img_1.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_2.png', 'CircularTextureMeterCTM/page_1_img_10.png', 'CircularTextureMeterCTM/page_1_img_3.jpeg', 'GalvanostaticPulseMeasurementGPM/page_1_img_8.png']
+2024-12-04 22:36:35,918 - INFO - Query: Where are low resistivity areas typically found on concrete surfaces during corrosion assessments?
+2024-12-04 22:36:35,920 - INFO - Retrieved Chunks: ['Electrical Resistivity (ER) Target of Investigatio...', 'Half-Cell Potential (HCP) Target of Investigation ...', 'Galvanostatic Pulse Measurement (GPM) Target of In...']
+2024-12-04 22:36:35,920 - INFO - Answer: The corrosion area on an area of reinforced concrete is determined by:
+
+1. the cross section of the concrete (for example, in the high-resistant areas).
+
+2. the cross section of the steel on which the corrosion occurs.
+
+3. the cross section of the steel on which the corrosion is found.
+
+4. the cross section of the steel on which the corrosion is found.
+
+5. the cross section of the steel on which the corrosion is found.
+
+6
+2024-12-04 22:36:35,920 - INFO - Images: ['ElectricalResistivityER/page_1_img_2.png', 'ElectricalResistivityER/page_1_img_10.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_5.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_12.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_10.png']
+2024-12-04 22:36:49,571 - INFO - Query: Why is the Falling Weight Deflectometer (FWD) critical in determining pavement structural conditions?
+2024-12-04 22:36:49,571 - INFO - Retrieved Chunks: ['Falling Weight Deflectometer (FWD) Target of Inves...', 'Traffic Speed Deflection Devices (TSDDs) Target of...', 'Inertial Profiler – Pavement (IP) Target of Invest...']
+2024-12-04 22:36:49,571 - INFO - Answer: FWD is a measure of the amount of energy and energy-saving energy that occurs in the roadway during a given time period. FWD data reflect the amount of energy and energy-saving energy that occurs in a given time period, and are presented in Table 1. FWD data are not used in assessing how the roadway is being maintained by the occupants. Rather, FWD data are used to assess the average rate of maintenance and to provide the appropriate environmental and health care to the occupants of the roadway.
+
+Table 1. FWD Rate of Maintenance and Health Care
+
+(Millions of gallons of water per day) (Millions of gallons of water per year)
+
+(Millions of gallons of water per year)
+
+(Millions of gallons of water per year)
+
+(Millions of gallons of water per year)
+
+(Millions of gallons of water per year)
+
+(Millions of gallons of water per year)
+
+(
+2024-12-04 22:36:49,571 - INFO - Images: ['FallingWeightDeflectometerFWD/page_1_img_6.png', 'FallingWeightDeflectometerFWD/page_1_img_12.png', 'TrafficSpeedDeflectionDevicesTSDDs/page_1_img_8.png', 'FallingWeightDeflectometerFWD/page_1_img_4.png', 'FallingWeightDeflectometerFWD/page_1_img_34.png']
+2024-12-04 22:36:59,044 - INFO - Query: Why does low electrical resistivity indicate higher corrosion rates in reinforced concrete?
+2024-12-04 22:36:59,044 - INFO - Retrieved Chunks: ['Electrical Resistivity (ER) Target of Investigatio...', 'Half-Cell Potential (HCP) Target of Investigation ...', 'Galvanostatic Pulse Measurement (GPM) Target of In...']
+2024-12-04 22:36:59,044 - INFO - Answer: The corrosion rate in reinforced concrete is an instantaneous average value. The current corrosion rate is an instantaneous average value. (1) A galvanostatic pulse method survey is a critical step in determining the corrosion rate of steel reinforced concrete. This survey will determine the strength and corrosion resistance of reinforced concrete. The survey will provide a baseline for the strength and corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for the corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for the corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for the corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for the corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for the corrosion resistance of reinforced concrete. The survey will be performed in a test chamber and will provide a baseline for
+2024-12-04 22:36:59,044 - INFO - Images: ['ElectricalResistivityER/page_1_img_2.png', 'ElectricalResistivityER/page_1_img_10.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_5.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_12.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_10.png']
+2024-12-04 22:37:13,165 - INFO - Query: How does the triangulation principle improve the accuracy of 3D imaging systems?
+2024-12-04 22:37:13,166 - INFO - Retrieved Chunks: ['2D and 3D Imaging Technology (IT) Target of Invest...', 'Photometric Stereo Imaging (PSI) Target of Investi...', 'Sand Patch Test (SPT) Target of Investigation Pave...']
+2024-12-04 22:37:13,166 - INFO - Answer: The 3D method in ASTM E965-15 is based on a series of principles, including the following:
+
+A. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+B. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+C. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+D. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+E. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+F. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+G. The measurement of a surface with a diameter greater than 2 cm can be done in a single step.
+
+H. The measurement of a
+2024-12-04 22:37:13,166 - INFO - Images: ['2Dand3DImagingTechnologyIT/page_1_img_9.png', '2Dand3DImagingTechnologyIT/page_1_img_14.png', '2Dand3DImagingTechnologyIT/page_1_img_6.png', '2Dand3DImagingTechnologyIT/page_1_img_16.png', 'PhotometricStereoImagingPSI/page_1_img_4.png']
+2024-12-04 22:37:29,096 - INFO - Query: How is corrosion rate measured using the Galvanostatic Pulse Measurement (GPM) method?
+2024-12-04 22:37:29,097 - INFO - Retrieved Chunks: ['Galvanostatic Pulse Measurement (GPM) Target of In...', 'Magnetometer (MM) Target of Investigation Magnetom...', 'Half-Cell Potential (HCP) Target of Investigation ...']
+2024-12-04 22:37:29,097 - INFO - Answer: A typical linear measure of corrosion rate is a 0.5-mm diameter measurement of an average surface area (SPA). The measurement of corrosion rates depends on the level of corrosion present. For instance, an average of 0.5-mm is considered "extremely" high; an average of 0.5-mm is considered "poor" (or "poorly"). A typical linear measure of corrosion rate is a 0.5-mm diameter measurement of an average surface area (SPA). The measurement of corrosion rates depends on the level of corrosion present. For instance, an average of 0.5-mm is considered "extremely" high; an average of 0.5-mm is considered "poor" (or "poorly").
+
+For the sake of completeness, it is preferable to use a continuous SPA measuring scale. SPA is the standard deviation of the surface area of a surface that is being eroded. A typical linear measure of corrosion rate is a 0.
+2024-12-04 22:37:29,097 - INFO - Images: ['GalvanostaticPulseMeasurementGPM/page_1_img_5.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_12.png', 'GalvanostaticPulseMeasurementGPM/page_1_img_8.png', 'HalfCellPotentialHCP/page_1_img_2.png', 'HalfCellPotentialHCP/page_1_img_8.png']
+2024-12-04 22:38:15,259 - INFO - Query: what is gpr?
+2024-12-04 22:38:15,259 - INFO - Retrieved Chunks: ['GPR (Asphalt Defects) Target of Investigation Grou...', 'GPR (Asphalt Thickness Assessment) Target of Inves...', 'GPR (Thickness & Dowel Location) Target of Investi...']
+2024-12-04 22:38:15,259 - INFO - Answer: gpr is a method of gathering information about the g-band of a fiber optic cable, including the fiber optic signal to a g-band. gpr is a method of collecting data on the G-band.
+
+gpr is a standard equipment that is used for GPR and other testing. gpr is the standard equipment used in the United States. gpr is a standard equipment used to test g-band signals.
+
+gpr is a standard equipment used to test a g-band signal. gpr is a standard equipment used to test g-band signals that are not a signal from a g-band signal.
+
+gpr is a standard equipment that is used to test a g-band signal that is not a signal from a g-band signal. gpr is a standard equipment that is used to test a g-band signal that is not a signal from a g-band signal. gpr is a standard equipment that is used to test a
+2024-12-04 22:38:15,259 - INFO - Images: ['GroundPenetratingRadarThicknessAndDowelLocation/page_1_img_2.png', 'GroundPenetratingRadarAsphaltThicknessAssessment/page_1_img_6.png', 'GroundPenetratingRadarAsphaltDefects/page_1_img_7.jpeg', 'GroundPenetratingRadarAsphaltThicknessAssessment/page_1_img_5.png', 'GroundPenetratingRadarAsphaltThicknessAssessment/page_1_img_7.png']
+2024-12-04 22:38:25,853 - INFO - Query: what is sounding?
+2024-12-04 22:38:25,854 - INFO - Retrieved Chunks: ['Sounding Target of Investigation Sounding is a com...', 'Microphones (MP) Target of Investigation Noise can...', 'Impact Echo (IE) Target of Investigation Primary a...']
+2024-12-04 22:38:25,854 - INFO - Answer: sound is a signal that changes the direction of the sound wave and how it is perceived. It is a simple signal that is emitted from a tunnel. It is very often a signal that is detected only by noise or by sound wave interference. The sound waves are not always the same size as the sound waves emitted from the tunnel. Sound waves are not always the same amplitude. Sound waves are the same density as the sound waves. The sound waves are usually just the same size as the sound waves emitted from the tunnel. The sound waves are not always the same amplitude. Sound waves are not always the same width as the sound waves emitted from the tunnel. Sound waves are not always the same size as the sound waves emitted from the tunnel. The sound waves are not always the same height as the sound waves emitted from the tunnel. Sound waves are not always the same width as the sound waves emitted from the tunnel. Sound waves are not always the same height as the sound waves emitted from the tunnel.
+2024-12-04 22:38:25,854 - INFO - Images: ['ImpactEchoIE/page_1_img_12.png', 'MicrophonesMP/page_1_img_10.png', 'MicrophonesMP/page_1_img_4.png', 'MicrophonesMP/page_1_img_14.png', 'ImpactEchoIE/page_1_img_4.png']
+2024-12-04 22:56:49,966 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-04 22:57:05,868 - INFO - Query: what is gpr?
+2024-12-04 22:57:05,868 - INFO - Retrieved Chunks: ['GPR (Asphalt Defects) Target of Investigation Grou...', 'GPR (Asphalt Thickness Assessment) Target of Inves...', 'GPR (Thickness & Dowel Location) Target of Investi...']
+2024-12-04 22:57:05,868 - INFO - Answer: GPR is a general purpose, high performance, high throughput, high volume, high-bandwidth, high-power, high-speed, high-resolution, and high-value technology that has the potential to significantly improve the quality of life of motorists, cyclists, pedestrians, and motorists on a daily basis. The term "gpr" is a term used to describe the components of GPR, including the use of GPR in the vehicle, equipment, and/or technology used to measure gpr. GPR systems have been used to measure the depth of the gutter of any concrete, concrete slab, or concrete slab surface, as well as the depth of the gutter at the bottom of a concrete surface. For example, in the concrete of an automobile, a GPR system can measure the depth of the gutter at the bottom of the automobile, and the depth at the top of the automobile. GPR systems have been developed for the purpose of measuring the depth of the
+2024-12-04 22:57:05,868 - INFO - Images: ['GroundPenetratingRadarThicknessAndDowelLocation/page_1_img_11.png', 'GroundPenetratingRadarThicknessAndDowelLocation/page_1_img_5.png', 'GroundPenetratingRadarAsphaltDefects/page_1_img_13.png', 'GroundPenetratingRadarAsphaltThicknessAssessment/page_1_img_5.png', 'GroundPenetratingRadarThicknessAndDowelLocation/page_1_img_7.png']
+2024-12-04 22:57:19,603 - INFO - Query: what is sounding?
+2024-12-04 22:57:19,604 - INFO - Retrieved Chunks: ['Sounding Target of Investigation Sounding is a com...', 'Microphones (MP) Target of Investigation Noise can...', 'Impact Echo (IE) Target of Investigation Primary a...']
+2024-12-04 22:57:19,604 - INFO - Answer: sound is the sound generated by the impact of concrete on the road surface.
+The sound is produced by the impact of concrete on the road surface.
+Tuning and Tuning of Impact-Echo Method
+Tuning is a process of making the impact of a concrete surface sound and tuning the sound to the location of the impact.
+We have been working on the tuning of impact-echo method for the last ten years.
+What is the tuning of impact-echo?
+The Impact-Echo Method is a type of test that is used to assess the performance of an operator on a given concrete layer.
+We use impact-echo method to measure the performance of an operator using the Impact-Echo Method.
+Tuning of impact-echo Method is an approach that takes into consideration the location of the impact.
+Tuning of impact-echo Method involves the following:
+Tuning of the impact-echo test signal
+Tuning of the impact-echo test signal
+2024-12-04 22:57:19,604 - INFO - Images: ['MicrophonesMP/page_1_img_4.png', 'MicrophonesMP/page_1_img_14.png', 'MicrophonesMP/page_1_img_8.png', 'ImpactEchoIE/page_1_img_8.png', 'Sounding/page_1_img_1.png']
